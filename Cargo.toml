@@ -1,0 +1,8 @@
+[package]
+name = "luabot"
+version = "0.1.0"
+authors = ["Andrew McLees <andrewmclees5@gmail.com>"]
+
+[dependencies]
+reqwest = "0.9"
+serenity = "0.5"
